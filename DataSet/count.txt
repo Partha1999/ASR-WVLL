@@ -1,0 +1,10 @@
+third_gender : 1518 speech
+male: 816 speech
+female: 811 speech
+total:3145 speech
+train = 2516
+test = 629
+
+
+paper summary:
+i have done my work with machine learning for that research paper i collected data from youtube videos,podcast and vlogs.where choose  clean data which can help us to go through a smooth research then we convert audio speech to multiple features like mfcc,roll off, zcr,spec_bw ,spec_bw,rms and chroma stff.then we have trained our dataset with 80%data  then we encoded our feature and finally we apply multiple algorithm for measuring the performance which algorithm giving the best accuracy to detect the speech.
